@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Tyler! 👋
 
-<!--
-**lucisvk/lucisvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![image](https://github.com/user-attachments/assets/4574be42-2e7a-47d4-a309-3457ee50d1a1)
+
+
+
+## About Me 🎆
+
+I am currently a undergrad cs student/intern. I love making aplication i can use in my day to day life either something simple as a alarm clock that wont shut off until u solve a random question or a activity tracker. 
+
+- 🌱 Currently learning: **[How to create games using java]**
+- 🔭 Working on: **[Pixel style turn base final fantasy game]**
+- 🌍 Languages: **[English,French]**
+- 📫 How to reach me: **[Tylermlucis@gmail.com]**
+- ⚡ Fun fact: **[I create animation effects]**
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+- **[Personal Website / Blog]**(your_website_or_blog_lin)
+- **[LinkedIn]**(https://www.linkedin.com/in/tyler-morency-5159b224a/)
+- **[Twitter]**(https://x.com/llLucis)
+
+
