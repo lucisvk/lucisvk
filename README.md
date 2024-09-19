@@ -9,7 +9,7 @@
 
 ## About Me 🎆
 
-I am currently a undergrad cs student/intern. I love making aplication i can use in my day to day life either something simple as a alarm clock that wont shut off until u solve a random question or a activity tracker. 
+I am currently a undergrad cs student. I love making aplication i can use in my day to day life either something simple as a alarm clock that wont shut off until u solve a random question or a activity tracker. 
 
 - 🌱 Currently learning: **[How to create games using java]**
 - 🔭 Working on: **[Pixel style turn base final fantasy game]**
