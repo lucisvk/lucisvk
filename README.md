@@ -4,17 +4,31 @@
 
 
 <!-- Socials -->
-<p align="center">
-   <kbd>
-  <a href="https://x.com/llLucis" title="Twitter"><img src="https://download.logo.wine/logo/Twitter/Twitter-Logo.wine.png" width="80" height="80" /></a>
-  <a href="https://www.linkedin.com/in/tyler-m-22a417358/" title="LinkedIn"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Icon-Black-Logo.wine.png" width="80" height="80" /></a>  
-  <a href="https://leetcode.com/u/lucisvk/" title="LeetCode"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50"/></a>
-  <a href="https://drive.google.com/file/d/17mI48o_dgXukyrPtLTKXGsxjLMATjQ3V/view?usp=sharing" title="Resume"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a87b5c3d-37c2-40e9-aa81-efbf8445fdce"/>
+<div align="center">
+
+### 🔗 Connect With Me
+
+<a href="https://x.com/llLucis">
+  <img src="https://download.logo.wine/logo/Twitter/Twitter-Logo.wine.png" width="48"/>
 </a>
-    <a href="" title="Portfolio"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dd816e19-7a8f-437f-a6e0-2cfd2436a0e5"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tyler-m-22a417358/">
+  <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Icon-Black-Logo.wine.png" width="48"/>
 </a>
- 
-</p>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/lucisvk/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/17mI48o_dgXukyrPtLTKXGsxjLMATjQ3V/view">
+  <img src="https://github.com/user-attachments/assets/a87b5c3d-37c2-40e9-aa81-efbf8445fdce" width="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/dd816e19-7a8f-437f-a6e0-2cfd2436a0e5" width="48"/>
+
+</div>
+
+
 
    
 <!-- Outer collapsible -->  
@@ -74,7 +88,7 @@ Outside of programing I'm a big fan editing, photography, and building gunpla.
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/Fovvy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a href="" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
 </details>
