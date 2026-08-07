@@ -8,7 +8,7 @@
 
 ### 🔗 Connect With Me
 
-<a href="https://x.com/llLucis">
+<a href="">
   <img src="https://download.logo.wine/logo/Twitter/Twitter-Logo.wine.png" width="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
